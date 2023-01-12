@@ -1,0 +1,7 @@
+﻿  main.cpp
+I:\Desktop\爱心代码\main.cpp(146,51): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+I:\Desktop\爱心代码\main.cpp(146,24): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+I:\Desktop\爱心代码\main.cpp(177,39): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+I:\Desktop\爱心代码\main.cpp(177,26): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+I:\Desktop\爱心代码\main.cpp(190,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  爱心代码.vcxproj -> I:\Desktop\爱心代码\x64\Debug\爱心代码.exe
